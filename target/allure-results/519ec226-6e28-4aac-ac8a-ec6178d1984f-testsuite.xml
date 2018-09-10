@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1532741654550" stop="1532741654622" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid login in mobile</name>
+    <title>Verify invalid login in mobile</title>
+    <test-cases>
+        <test-case start="1532741654562" stop="1532741654564" status="passed">
+            <name>Given I am on mobile login page</name>
+            <title>Given I am on mobile login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="ZiasMac.local"/>
+                <label name="thread" value="2847@ZiasMac.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid login in mobile"/>
+        <label name="feature" value="Mobile Login Feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
